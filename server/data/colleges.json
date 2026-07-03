@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "1",
+    "name": "IIT Delhi",
+    "location": "Delhi",
+    "category": "Engineering",
+    "fees": 220000,
+    "rating": 4.9,
+    "overview": "A premier public technical university.",
+    "averagePackage": 25,
+    "highestPackage": 82
+  },
+  {
+    "_id": "2",
+    "name": "IIT Bombay",
+    "location": "Mumbai",
+    "category": "Engineering",
+    "fees": 230000,
+    "rating": 4.8,
+    "overview": "A top-ranked institute with a strong startup ecosystem.",
+    "averagePackage": 27,
+    "highestPackage": 90
+  },
+  {
+    "_id": "1783055136628",
+    "name": "Vignan University",
+    "location": "Guntur",
+    "category": "NAAC A+",
+    "fees": 260000,
+    "rating": 3.6,
+    "overview": "",
+    "placements": "80%",
+    "averagePackage": 7,
+    "highestPackage": 44,
+    "imageUrl": "",
+    "courses": [],
+    "reviews": []
+  }
+]
